@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-LucasJ
 - 👀 I’m interested in earn experience with community
-- 🌱 I’m currently learning Python Language
+- 🌱 I’m currently learning Java Language
 - 💞️ I’m looking to collaborate on Open source project
 - 📫 How to reach me: on dm
 
